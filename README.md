@@ -5,12 +5,13 @@
 </h1>
 
 [![Rocket.Chat](https://open.rocket.chat/images/join-chat.svg)](https://open.rocket.chat/)
-[![Build Status](https://img.shields.io/travis/RocketChat/Rocket.Chat/master.svg)](https://travis-ci.org/RocketChat/Rocket.Chat)
+[![Build Status](https://travis-ci.org/hibikine/Rocket.Chat.svg?branch=develop)](https://travis-ci.org/hibikine/Rocket.Chat)
 [![dependencies Status](https://david-dm.org/hibikine/Rocket.Chat/status.svg)](https://david-dm.org/hibikine/Rocket.Chat)
 [![devDependencies Status](https://david-dm.org/hibikine/Rocket.Chat/dev-status.svg)](https://david-dm.org/hibikine/Rocket.Chat?type=dev)
-[![Codacy Badge](https://api.codacy.com/project/badge/grade/8580571ba024426d9649e9ab389bd5dd)](https://www.codacy.com/app/RocketChat/Rocket-chat)
-[![Coverage Status](https://coveralls.io/repos/RocketChat/Rocket.Chat/badge.svg)](https://coveralls.io/r/RocketChat/Rocket.Chat)
-[![Code Climate](https://codeclimate.com/github/RocketChat/Rocket.Chat/badges/gpa.svg)](https://codeclimate.com/github/RocketChat/Rocket.Chat)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ad0d69c915284fa58db3410d988374c9)](https://www.codacy.com/manual/HibikineKage/Rocket.Chat?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hibikine/Rocket.Chat&amp;utm_campaign=Badge_Grade)
+[![Coverage Status](https://coveralls.io/repos/github/hibikine/Rocket.Chat/badge.svg?branch=develop)](https://coveralls.io/github/hibikine/Rocket.Chat?branch=develop)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a2e9e06f23daa64ed7cb/maintainability)](https://codeclimate.com/github/hibikine/Rocket.Chat/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/a2e9e06f23daa64ed7cb/test_coverage)](https://codeclimate.com/github/hibikine/Rocket.Chat/test_coverage)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/RocketChat/Rocket.Chat/raw/master/LICENSE)
 
 
